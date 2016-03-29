@@ -1,0 +1,24 @@
+{
+  "name": "node.skelleton",
+  "version": "1.0.0",
+  "description": "Skelleton Asset Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeycaughey/gulp-skelleton.git"
+  },
+  "keywords": [
+    "asset",
+    "manager",
+    "builder"
+  ],
+  "author": "“Joey <“joey.caughey@gmail.com\nnpm set init.author.url http://www.joeycaughey.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeycaughey/gulp-skelleton/issues"
+  },
+  "homepage": "https://github.com/joeycaughey/gulp-skelleton#readme"
+}
